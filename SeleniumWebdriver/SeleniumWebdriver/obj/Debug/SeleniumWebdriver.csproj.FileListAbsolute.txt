@@ -1,0 +1,10 @@
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\bin\Debug\SeleniumWebdriver.exe.config
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\bin\Debug\SeleniumWebdriver.exe
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\bin\Debug\SeleniumWebdriver.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\bin\Debug\WebDriver.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\bin\Debug\WebDriver.Support.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\bin\Debug\WebDriver.xml
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\bin\Debug\WebDriver.Support.xml
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\obj\Debug\SeleniumWebdriver.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\obj\Debug\SeleniumWebdriver.exe
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\SeleniumWebdriver\SeleniumWebdriver\obj\Debug\SeleniumWebdriver.pdb

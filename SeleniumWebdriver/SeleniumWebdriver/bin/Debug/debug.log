@@ -1,0 +1,51 @@
+[0104/141834:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/141834:ERROR:exception_snapshot_win.cc(87)] thread ID 8292 not found in process
+[0104/141834:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/142043:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/142043:ERROR:exception_snapshot_win.cc(87)] thread ID 10144 not found in process
+[0104/142043:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/142401:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/142401:ERROR:exception_snapshot_win.cc(87)] thread ID 5892 not found in process
+[0104/142401:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/142949:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/142949:ERROR:exception_snapshot_win.cc(87)] thread ID 7320 not found in process
+[0104/142949:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/144110:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/144110:ERROR:exception_snapshot_win.cc(87)] thread ID 1808 not found in process
+[0104/144110:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/144351:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/144351:ERROR:exception_snapshot_win.cc(87)] thread ID 5932 not found in process
+[0104/144351:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/144443:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/144443:ERROR:exception_snapshot_win.cc(87)] thread ID 6336 not found in process
+[0104/144443:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/144732:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/144732:ERROR:exception_snapshot_win.cc(87)] thread ID 5080 not found in process
+[0104/144732:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/144814:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/144814:ERROR:exception_snapshot_win.cc(87)] thread ID 10464 not found in process
+[0104/144814:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/144904:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/144904:ERROR:exception_snapshot_win.cc(87)] thread ID 11224 not found in process
+[0104/144904:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/145253:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/145253:ERROR:exception_snapshot_win.cc(87)] thread ID 9532 not found in process
+[0104/145253:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/150004:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/150004:ERROR:exception_snapshot_win.cc(87)] thread ID 9168 not found in process
+[0104/150004:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/153208:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/153208:ERROR:exception_snapshot_win.cc(87)] thread ID 5656 not found in process
+[0104/153208:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/153252:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/153252:ERROR:exception_snapshot_win.cc(87)] thread ID 7496 not found in process
+[0104/153252:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/153535:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/153535:ERROR:exception_snapshot_win.cc(87)] thread ID 8200 not found in process
+[0104/153535:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/234816:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/234816:ERROR:exception_snapshot_win.cc(87)] thread ID 3528 not found in process
+[0104/234816:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0104/234926:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[0104/234926:ERROR:exception_snapshot_win.cc(87)] thread ID 8820 not found in process
+[0104/234926:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed

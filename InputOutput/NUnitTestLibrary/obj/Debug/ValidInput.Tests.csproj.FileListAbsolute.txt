@@ -1,0 +1,11 @@
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\NUnitTestLibrary.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\NUnitTestLibrary.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\InputOutput.exe
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\nunit.framework.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\ValidInput.Library.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\InputOutput.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\ValidInput.Library.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\bin\Debug\nunit.framework.xml
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\obj\Debug\ValidInput.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\obj\Debug\NUnitTestLibrary.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\NUnitTestLibrary\obj\Debug\NUnitTestLibrary.pdb

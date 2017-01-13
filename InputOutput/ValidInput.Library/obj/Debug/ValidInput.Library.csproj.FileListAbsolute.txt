@@ -1,0 +1,5 @@
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\ValidInput.Library\bin\Debug\ValidInput.Library.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\ValidInput.Library\bin\Debug\ValidInput.Library.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\ValidInput.Library\obj\Debug\ValidInput.Library.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\ValidInput.Library\obj\Debug\ValidInput.Library.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\ValidInput.Library\obj\Debug\ValidInput.Library.csprojResolveAssemblyReference.cache
