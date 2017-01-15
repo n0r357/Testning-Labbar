@@ -6,3 +6,6 @@ C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\InputOutpu
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\InputOutput\obj\Debug\InputOutput.csprojResolveAssemblyReference.cache
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\InputOutput\obj\Debug\InputOutput.exe
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\InputOutput\InputOutput\obj\Debug\InputOutput.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\InputOutput\InputOutput\bin\Debug\InputOutput.exe.config
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\InputOutput\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\InputOutput\InputOutput\obj\Debug\InputOutput.pdb

@@ -1,0 +1,9 @@
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\bin\Debug\BankApp.exe
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\bin\Debug\BankApp.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\obj\Debug\BankAppTest.Library.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

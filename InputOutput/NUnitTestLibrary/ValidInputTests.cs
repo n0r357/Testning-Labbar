@@ -14,7 +14,7 @@ namespace ValidInput.Tests
 
     public class ValidInputTests
     {
-        Manager manager = new Manager();
+        //Manager manager = new Manager();
 
         [Test]
         public void CheckFileCreation()
