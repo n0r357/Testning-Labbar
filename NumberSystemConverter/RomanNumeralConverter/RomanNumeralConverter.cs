@@ -71,9 +71,17 @@ namespace NumberSystemConverter
             pairValues.Add("IV", 4);
             pairValues.Add("IX", 9);
             pairValues.Add("XL", 40);
+            pairValues.Add("VL", 45);
+            pairValues.Add("IL", 49);
             pairValues.Add("XC", 90);
+            pairValues.Add("VC", 95);
+            pairValues.Add("IC", 99);
             pairValues.Add("CD", 400);
             pairValues.Add("CM", 900);
+            pairValues.Add("LM", 950);
+            pairValues.Add("XM", 990);
+            pairValues.Add("VM", 995);
+            pairValues.Add("IM", 999);
 
             romanNumeralList = new List<RomanNumeralPair>()
             {
