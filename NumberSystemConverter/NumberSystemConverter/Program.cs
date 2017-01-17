@@ -37,7 +37,7 @@ namespace NumberSystemConverter
                     Console.WriteLine("V - 5");
                     Console.WriteLine("I - 1\n");
 
-                    Console.WriteLine("Please enter an integer value OR roman numeral to be converted...");
+                    Console.WriteLine("Please enter an integer value OR Roman numeral to be converted...");
                     Console.Write("Input: ");
                     userInput = Console.ReadLine().ToUpper();
                     if (!converter.InputController(userInput))
@@ -62,7 +62,13 @@ namespace NumberSystemConverter
                 }
                 if (!userInput.All(c => c >= '0' && c <= '9') && userInput != "")
                 {
-                    Console.WriteLine("Result: " + userInput.ToUpper() + " = " + converter.ConvertToIntegerValue(userInput));
+                    result = converter.ConvertToIntegerValue(userInput);
+                    string correct = converter.ConvertToRomanNumeral(result);
+                    Console.WriteLine("Result: " + userInput.ToUpper() + " = " + result);
+                    if (userInput != correct)
+                    {
+                        Console.WriteLine("Correct way to write Roman numeral: " + correct);
+                    }
                 }
                 Console.Write("\nPress any key...");
                 Console.ReadKey();
