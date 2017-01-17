@@ -24,7 +24,7 @@ namespace NumberSystemConverter
             while (true)
             {
                 string userInput;
-
+                int result;
                 do
                 {
                     Console.Clear();
@@ -42,6 +42,14 @@ namespace NumberSystemConverter
                     userInput = Console.ReadLine().ToUpper();
                     if (!converter.InputController(userInput))
                     {
+                        if (int.TryParse(userInput, out result))
+                        {
+                            userInput += " (must be a value between 1 and 3999)";
+                        }
+                        else if (!int.TryParse(userInput, out result))
+                        {
+                            userInput += " (see valid letters above)";
+                        }
                         Console.WriteLine("Invalid input: " + userInput);
                         Console.Write("\nPress any key...");
                         Console.ReadKey();
