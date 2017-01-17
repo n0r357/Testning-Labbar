@@ -69,14 +69,17 @@ namespace NumberSystemConverter
 
             pairValues = new Dictionary<string, int>();
             pairValues.Add("IV", 4);
+            pairValues.Add("VX", 5);
             pairValues.Add("IX", 9);
             pairValues.Add("XL", 40);
             pairValues.Add("VL", 45);
             pairValues.Add("IL", 49);
+            pairValues.Add("LC", 50);
             pairValues.Add("XC", 90);
             pairValues.Add("VC", 95);
             pairValues.Add("IC", 99);
             pairValues.Add("CD", 400);
+            pairValues.Add("DM", 500);
             pairValues.Add("CM", 900);
             pairValues.Add("LM", 950);
             pairValues.Add("XM", 990);
