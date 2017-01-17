@@ -4,3 +4,6 @@ C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\BankApp\bin\De
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\BankApp\obj\Debug\BankApp.exe
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\BankApp\BankApp\obj\Debug\BankApp.pdb
