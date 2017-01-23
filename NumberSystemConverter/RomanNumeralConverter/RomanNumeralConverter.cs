@@ -163,7 +163,7 @@ namespace NumberSystemConverter
 
             if (int.TryParse(input, out result))
             {
-                if (result <= 0 || result > 3999)
+                if (result <= 0)
                 {
                     return false;
                 }

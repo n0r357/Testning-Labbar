@@ -1,0 +1,9 @@
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\bin\Debug\PlayingCardsTest.Library.dll
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\bin\Debug\PlayingCardsTest.Library.pdb
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\bin\Debug\nunit.framework.dll
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\bin\Debug\PlayingCardsModuleTest.exe
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\bin\Debug\PlayingCardsModuleTest.pdb
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\bin\Debug\nunit.framework.xml
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\obj\Debug\PlayingCardsTest.Library.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\obj\Debug\PlayingCardsTest.Library.dll
+C:\Users\jimmy\Documents\Visual Studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsTest.Library\obj\Debug\PlayingCardsTest.Library.pdb

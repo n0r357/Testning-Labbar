@@ -1,0 +1,6 @@
+c:\users\jimmy\documents\visual studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsModuleTest\bin\Debug\PlayingCardsModuleTest.exe.config
+c:\users\jimmy\documents\visual studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsModuleTest\bin\Debug\PlayingCardsModuleTest.exe
+c:\users\jimmy\documents\visual studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsModuleTest\bin\Debug\PlayingCardsModuleTest.pdb
+c:\users\jimmy\documents\visual studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsModuleTest\obj\Debug\PlayingCardsModuleTest.csprojResolveAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsModuleTest\obj\Debug\PlayingCardsModuleTest.exe
+c:\users\jimmy\documents\visual studio 2015\Projects\PlayingCardsModuleTest\PlayingCardsModuleTest\obj\Debug\PlayingCardsModuleTest.pdb
