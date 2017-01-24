@@ -1,4 +1,5 @@
 ﻿#region Usings
+using ConversionException.Library;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -36,27 +37,12 @@ namespace NumberSystemConverter
     {
         // Readonly - The variable assigned with the readonly operator can only be changed inside the declaration or in the constructor
         private List<RomanNumeralPair> romanNumeralList;
-        public List<string> letterList;
         public Dictionary<string, int> singleValues;
         public Dictionary<string, int> pairValues;
 
         public RomanNumeralConverter()
         {
             #region Initializing the list with romanNumerals
-            letterList = new List<string>();
-            letterList.Add("M");
-            letterList.Add("CM");
-            letterList.Add("D");
-            letterList.Add("CD");
-            letterList.Add("C");
-            letterList.Add("XC");
-            letterList.Add("L");
-            letterList.Add("XL");
-            letterList.Add("X");
-            letterList.Add("IX");
-            letterList.Add("V");
-            letterList.Add("IV");
-            letterList.Add("I");
 
             singleValues = new Dictionary<string, int>();
             singleValues.Add("I", 1);
@@ -161,17 +147,33 @@ namespace NumberSystemConverter
         {
             int result;
 
+            try
+            {
+                if (input.StartsWith("0"))
+                {
+                    throw new ExceptionTest("Starts with 0.");
+                }
+                if (input.Contains(".") || input.Contains(","))
+                {
+                    throw new ExceptionTest("Contains invalid character.");
+                }
+            }
+            catch (ExceptionTest e)
+            {
+                Console.WriteLine(e.Message);
+                return false;
+            }
             if (int.TryParse(input, out result))
             {
-                if (result <= 0)
+                if (result <= 0 || result > 4999)
                 {
                     return false;
                 }
                 return true;
             }
-            for (int i = 0; i < input.Length; i++)
+            foreach (var letter in input)
             {
-                if (!letterList.Contains(input[i].ToString()))
+                if (!singleValues.ContainsKey(letter.ToString()))
                 {
                     return false;
                 }

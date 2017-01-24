@@ -9,3 +9,5 @@ C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\Number
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\ConversionTest.Library\obj\Debug\ConversionTest.Library.csprojResolveAssemblyReference.cache
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\ConversionTest.Library\obj\Debug\ConversionTest.Library.dll
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\ConversionTest.Library\obj\Debug\ConversionTest.Library.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\ConversionTest.Library\bin\Debug\ConversionException.Library.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\ConversionTest.Library\bin\Debug\ConversionException.Library.pdb

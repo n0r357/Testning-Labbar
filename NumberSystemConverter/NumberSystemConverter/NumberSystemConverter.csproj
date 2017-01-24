@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ConversionException.Library\ConversionException.csproj">
+      <Project>{D477A07B-C5D5-4B98-AB8C-417A2FC15064}</Project>
+      <Name>ConversionException</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RomanNumeralConverter\RomanNumeralConverter.csproj">
       <Project>{59f3a9a4-df5d-4dac-9af7-f847821e0338}</Project>
       <Name>RomanNumeralConverter</Name>

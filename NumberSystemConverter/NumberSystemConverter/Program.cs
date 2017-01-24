@@ -1,4 +1,5 @@
 ﻿#region Usings
+using ConversionException.Library;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,11 +45,11 @@ namespace NumberSystemConverter
                     {
                         if (int.TryParse(userInput, out result))
                         {
-                            userInput += " (must be a value between 1 and 3999)";
+                            userInput += " (must be a value between 1 and 4999)";
                         }
                         else if (!int.TryParse(userInput, out result))
                         {
-                            userInput += " (see valid letters above)";
+                            userInput += " (see valid characters above)";
                         }
                         Console.WriteLine("Invalid input: " + userInput);
                         Console.Write("\nPress any key...");
@@ -56,7 +57,7 @@ namespace NumberSystemConverter
                     }
                 } while (!converter.InputController(userInput));
 
-                if(userInput.All(c => c >= '0' && c <= '9') && userInput != "" && !converter.letterList.Contains(userInput))
+                if(userInput.All(c => c >= '0' && c <= '9') && userInput != "" && !converter.singleValues.ContainsKey(userInput))
                 { 
                     Console.WriteLine("Result: " + userInput.ToUpper() + " = " + converter.ConvertToRomanNumeral(int.Parse(userInput)));
                 }
@@ -64,10 +65,23 @@ namespace NumberSystemConverter
                 {
                     result = converter.ConvertToIntegerValue(userInput);
                     string correct = converter.ConvertToRomanNumeral(result);
-                    Console.WriteLine("Result: " + userInput.ToUpper() + " = " + result);
-                    if (userInput != correct)
+
+                    try
                     {
-                        Console.WriteLine("Correct way to write Roman numeral: " + correct);
+                        int validateConversion = 1 / result;
+                        if (userInput == correct)
+                        {
+                            Console.WriteLine("Result: " + userInput.ToUpper() + " = " + result);
+                        }
+                        if (userInput != correct)
+                        {
+                            Console.WriteLine("Correct way to write Roman numeral: " + correct);
+                            Console.WriteLine("Result: " + correct + " = " + result);
+                        }
+                    }
+                    catch (DivideByZeroException)
+                    {
+                        Console.WriteLine("Invalid input: " + userInput);
                     }
                 }
                 Console.Write("\nPress any key...");

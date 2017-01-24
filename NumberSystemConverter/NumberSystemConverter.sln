@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralConverter", "Ro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionTest.Library", "ConversionTest.Library\ConversionTest.Library.csproj", "{74FFD65F-86C4-4A2A-AACF-5D57A5BA3D6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionException", "ConversionException.Library\ConversionException.csproj", "{D477A07B-C5D5-4B98-AB8C-417A2FC15064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{74FFD65F-86C4-4A2A-AACF-5D57A5BA3D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74FFD65F-86C4-4A2A-AACF-5D57A5BA3D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74FFD65F-86C4-4A2A-AACF-5D57A5BA3D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D477A07B-C5D5-4B98-AB8C-417A2FC15064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D477A07B-C5D5-4B98-AB8C-417A2FC15064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D477A07B-C5D5-4B98-AB8C-417A2FC15064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D477A07B-C5D5-4B98-AB8C-417A2FC15064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

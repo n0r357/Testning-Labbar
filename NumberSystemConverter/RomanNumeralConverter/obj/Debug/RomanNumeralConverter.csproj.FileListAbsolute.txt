@@ -12,4 +12,6 @@ C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\Number
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.dll
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\RomanNumeralConverter\bin\Debug\ConversionException.Library.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\RomanNumeralConverter\bin\Debug\ConversionException.Library.pdb
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache

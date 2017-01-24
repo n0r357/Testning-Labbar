@@ -17,7 +17,9 @@ C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Undervisningsmaterial\
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\bin\Debug\NumberSystemConverter.exe.config
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\bin\Debug\NumberSystemConverter.exe
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\bin\Debug\NumberSystemConverter.pdb
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\bin\Debug\ConversionException.Library.dll
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\bin\Debug\RomanNumeralConverter.dll
+C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\bin\Debug\ConversionException.Library.pdb
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\bin\Debug\RomanNumeralConverter.pdb
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\obj\Debug\NumberSystemConverter.csprojResolveAssemblyReference.cache
 C:\Users\jimmy\Documents\YHSUST16\Testning av programvara\Testning-Labbar\NumberSystemConverter\NumberSystemConverter\obj\Debug\NumberSystemConverter.exe
